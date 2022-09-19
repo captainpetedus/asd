@@ -1,0 +1,8 @@
+C:\Users\user12\Desktop\progi\imndegy\imndegy\bin\Debug\imndegy.exe.config
+C:\Users\user12\Desktop\progi\imndegy\imndegy\bin\Debug\imndegy.exe
+C:\Users\user12\Desktop\progi\imndegy\imndegy\bin\Debug\imndegy.pdb
+C:\Users\user12\Desktop\progi\imndegy\imndegy\obj\Debug\imndegy.csproj.AssemblyReference.cache
+C:\Users\user12\Desktop\progi\imndegy\imndegy\obj\Debug\imndegy.csproj.SuggestedBindingRedirects.cache
+C:\Users\user12\Desktop\progi\imndegy\imndegy\obj\Debug\imndegy.csproj.CoreCompileInputs.cache
+C:\Users\user12\Desktop\progi\imndegy\imndegy\obj\Debug\imndegy.exe
+C:\Users\user12\Desktop\progi\imndegy\imndegy\obj\Debug\imndegy.pdb
